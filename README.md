@@ -1,5 +1,9 @@
 # CinemA
 
+[Website Preview](https://cinema.nassim.online/)
+
+![Website Preview](https://nassim.online/static/media/cinema.55d9e22a1f23d0a336dc.png)
+
 ## Project Description
 
 Cinema! is a MERN (MongoDB, Express, React, Node.js) stack application designed for movie enthusiasts. The front end consumes data from **The Movie Database (TMDb) API**, enabling users to explore various movie categories. The back end handles user authentication, registration, and login using MongoDB.
